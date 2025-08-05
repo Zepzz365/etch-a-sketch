@@ -1,0 +1,9 @@
+.square{
+    background-color: bisque;
+    border: dashed 1px black;
+    width: 10px;
+    height: 10px;
+}
+.square:hover {
+  background-color: lightblue;
+}
